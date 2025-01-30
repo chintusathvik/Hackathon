@@ -16,3 +16,9 @@ Users can access LearnMate through the frontend interface or by making API reque
 🎓 How LearnMate Supports Child Education
 
 LearnMate is an excellent tool for child education, offering an engaging and interactive learning experience tailored for young learners. It simplifies complex topics by providing step-by-step explanations in a child-friendly manner. The AI tutor can adapt to different age groups and learning paces, making it a versatile educational assistant.
+.
+
+📧 Contact
+
+For any inquiries or support, reach out via email at 📩 chintusathvik02@gmail.com or visit the project repository on GitHub. 🚀
+
