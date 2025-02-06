@@ -24,10 +24,10 @@ app.post('/summarize', async (req, res) => {
         }
 
         // Groq API URL
-        const groqApiUrl = 'https://api.groq.com/openai/v1/chat/completions'; // New API endpoint
+        const groqApiUrl = 'url'; // New API endpoint
         
         // Groq API key
-        const apiKey = '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';
+        const apiKey = 'ur api-key';
 
         if (!apiKey) {
             return res.status(500).json({ error: 'API key is missing or incorrect.' });
